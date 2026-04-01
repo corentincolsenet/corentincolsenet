@@ -46,7 +46,7 @@ Built with Next.js, TypeScript, MongoDB, Redux, and integrations including e-sig
 
 ## GitHub Stats
 
-![Corentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=corentin-colsenet&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+![Corentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=corentincolsenet&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
 
